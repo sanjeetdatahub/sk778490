@@ -1,44 +1,68 @@
-![Typing](https://readme-typing-svg.herokuapp.com?size=25&color=00C2FF&center=false&lines=Hi+I'm+Sanjeet+Kumar;Aspiring+Data+Analyst;SQL+%7C+Tableau+%7C+Python)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00C2FF&lines=Hi+I'm+Sanjeet+Kumar;Aspiring+Data+Analyst;SQL+%7C+Tableau+%7C+Python;Turning+Data+into+Insights)
 
-# 👨‍💻 Sanjeet Kumar
-
-**Aspiring Data Analyst | SQL | Tableau | Python**
-
----
-
-## 🚀 About Me
-> 🎓 MBA Student (Manipal University Jaipur)  
-> 📊 Learning Data Analysis (SQL, Tableau, Python)  
-> 💼 Accounting Experience  
-> 🎯 Goal: Data Analyst Job  
+# 👨‍💻 Sanjeet Kumar  
+### 📊 Data Analyst | SQL | Tableau | Python  
 
 ---
 
-## 🛠️ Skills
-
-![SQL](https://img.shields.io/badge/SQL-blue)  
-![Excel](https://img.shields.io/badge/Excel-green)  
-![Tableau](https://img.shields.io/badge/Tableau-orange)  
-![Python](https://img.shields.io/badge/Python-yellow)  
-
----
-
-## 📊 Projects
-
-🔹 **Hotel Data Analysis**  
-👉 Revenue insights using SQL & Tableau  
-
-🔹 **Superstore Sales Analysis**  
-👉 Dashboard & trend analysis  
-
-🔹 **Zomato Data Analysis**  
-👉 Customer behavior insights  
+## 🧠 About Me
+- 🎓 MBA Student – Manipal University Jaipur  
+- 📊 Passionate about Data Analysis & Visualization  
+- 💼 Background in Accounting & Finance  
+- 📈 Focused on building real-world data projects  
+- 🎯 Goal: Become a Data Analyst  
 
 ---
 
-## 📫 Contact
+## ⚙️ Tech Stack
 
-📧 sanjeetkumar474@yahoo.com
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 📊 Featured Projects
+
+### 🔹 Hotel Revenue Analysis
+- 📌 SQL queries for revenue insights  
+- 📊 Tableau dashboard for visualization  
+- 💡 Identified booking trends & seasonality  
+
+### 🔹 Superstore Sales Analysis
+- 📌 Data cleaning & transformation  
+- 📊 Sales performance dashboard  
+- 💡 Profit & category insights  
+
+### 🔹 Zomato Data Analysis
+- 📌 Customer behavior analysis  
+- 📊 Restaurant trends visualization  
+- 💡 Location-based insights  
+
+---
+
+## 📈 GitHub Stats
+
+![Sanjeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=sk778490&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sk778490&theme=tokyonight)
+
+---
+
+## 🌐 Connect with Me
+
+- 📧 Email: sanjeetkumar474@yahoo.com 
+- 📱 Phone: +91-7543090343 
+- 💼 LinkedIn:https://www.linkedin.com/in/sanjeet-kumar-aryan
+
+---
+
+⭐ *“Turning raw data into meaningful insights”*
 
 <!--
 **sk778490/sk778490** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
