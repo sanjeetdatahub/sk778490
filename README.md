@@ -25,19 +25,19 @@
 
 ## 📊 Featured Projects
 
-### 🔹 Hotel Revenue Analysis
+### 🔹 [Hotel Revenue Analysis](https://github.com/sk778490/hotel-data-analysis)
 - 📌 SQL queries for revenue insights  
-- 📊 Tableau dashboard for visualization  
-- 💡 Identified booking trends & seasonality  
+- 📊 Tableau dashboard  
+- 💡 Booking trends & revenue insights  
 
-### 🔹 Superstore Sales Analysis
+### 🔹 [Superstore Sales Analysis](https://github.com/sk778490/superstore-analysis)
 - 📌 Data cleaning & transformation  
-- 📊 Sales performance dashboard  
+- 📊 Sales dashboard  
 - 💡 Profit & category insights  
 
-### 🔹 Zomato Data Analysis
+### 🔹 [Zomato Data Analysis](https://github.com/sk778490/zomato-analysis)
 - 📌 Customer behavior analysis  
-- 📊 Restaurant trends visualization  
+- 📊 Visualization  
 - 💡 Location-based insights  
 
 ---
