@@ -1,33 +1,44 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00C2FF&lines=Hi+I'm+Sanjeet+Kumar;Aspiring+Data+Analyst;SQL+%7C+Tableau+%7C+Python)
+![Typing](https://readme-typing-svg.herokuapp.com?size=25&color=00C2FF&center=false&lines=Hi+I'm+Sanjeet+Kumar;Aspiring+Data+Analyst;SQL+%7C+Tableau+%7C+Python)
+
+# 👨‍💻 Sanjeet Kumar
+
+**Aspiring Data Analyst | SQL | Tableau | Python**
 
 ---
 
 ## 🚀 About Me
-- 🎓 MBA Student (Manipal University Jaipur)
-- 📊 Data Analyst banne ki tayari
-- 💼 Accounting experience
-- 🎯 Goal: Data Analyst Job
+> 🎓 MBA Student (Manipal University Jaipur)  
+> 📊 Learning Data Analysis (SQL, Tableau, Python)  
+> 💼 Accounting Experience  
+> 🎯 Goal: Data Analyst Job  
 
 ---
 
 ## 🛠️ Skills
-- SQL
-- Excel
-- Tableau
-- Python
+
+![SQL](https://img.shields.io/badge/SQL-blue)  
+![Excel](https://img.shields.io/badge/Excel-green)  
+![Tableau](https://img.shields.io/badge/Tableau-orange)  
+![Python](https://img.shields.io/badge/Python-yellow)  
 
 ---
 
 ## 📊 Projects
-- Hotel Data Analysis
-- Superstore Sales Analysis
-- Zomato Data Analysis
+
+🔹 **Hotel Data Analysis**  
+👉 Revenue insights using SQL & Tableau  
+
+🔹 **Superstore Sales Analysis**  
+👉 Dashboard & trend analysis  
+
+🔹 **Zomato Data Analysis**  
+👉 Customer behavior insights  
 
 ---
 
-## 📧 Contact
-- Mobile No: +91 7543090343
-- Email: sanjeetkumar474@yahoo.com
+## 📫 Contact
+
+📧 sanjeetkumar474@yahoo.com
 
 <!--
 **sk778490/sk778490** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
