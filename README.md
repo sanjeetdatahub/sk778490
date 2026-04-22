@@ -1,8 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00C2FF&lines=Hi+I'm+Sanjeet+Kumar;Aspiring+Data+Analyst;SQL+%7C+Tableau+%7C+Python)
 
-<h1 align="center">Hi 👋, I'm Sanjeet Kumar</h1>
-<h3 align="center">Aspiring Data Analyst | SQL | Tableau | Python</h3>
-
 ---
 
 ## 🚀 About Me
