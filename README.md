@@ -25,17 +25,17 @@
 
 ## 📊 Featured Projects
 
-### 🔹 [Hotel Revenue Analysis](https://github.com/sk778490/hotel-data-analysis)
+### 🔹 [Hotel Revenue Analysis](https://github.com/sanjeetdatahub/hotel-data-analysis)
 - 📌 SQL queries for revenue insights  
 - 📊 Tableau dashboard  
 - 💡 Booking trends & revenue insights  
 
-### 🔹 [Superstore Sales Analysis](https://github.com/sk778490/superstore-analysis)
+### 🔹 [Superstore Sales Analysis](https://github.com/sanjeetdatahub/superstore-analysis)
 - 📌 Data cleaning & transformation  
 - 📊 Sales dashboard  
 - 💡 Profit & category insights  
 
-### 🔹 [Zomato Data Analysis](https://github.com/sk778490/zomato-analysis)
+### 🔹 [Zomato Data Analysis](https://github.com/sanjeetdatahub/zomato-analysis)
 - 📌 Customer behavior analysis  
 - 📊 Visualization  
 - 💡 Location-based insights  
@@ -44,13 +44,13 @@
 
 ## 📈 GitHub Stats
 
-![Sanjeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=sk778490&show_icons=true&theme=tokyonight)
+![Sanjeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjeetdatahub&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🔥 Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sk778490&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=sanjeetdatahub&theme=tokyonight)
 
 ---
 
@@ -58,23 +58,8 @@
 
 - 📧 Email: sanjeetkumar474@yahoo.com 
 - 📱 Phone: +91-7543090343 
-- 💼 LinkedIn:https://www.linkedin.com/in/sanjeet-kumar-aryan
+- 💼 LinkedIn: https://www.linkedin.com/in/sanjeet-kumar-aryan
 
 ---
 
-⭐ *“Turning raw data into meaningful insights”*
-
-<!--
-**sk778490/sk778490** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ *"Turning raw data into meaningful insights"*
